@@ -15,6 +15,6 @@ function checkpalindrome(txt) {
       result.textContent = "bukan palindrome";
       return;
     }
-    result.textContent = "polindrome";
+    result.textContent = "palindrome";
   }
 }
